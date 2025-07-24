@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bin/
 obj/
 .vs/
@@ -5,3 +6,25 @@ obj/
 *.suo
 *.log
 *.tmp
+=======
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore project-specific files
+*.csproj
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore Visual Studio files
+.vs/
+*.dbmdl
+*.pdb
+
+# Ignore other unwanted files
+*.exe
+*.dll
+*.zip
+>>>>>>> dc376a5c89e9e881bfe10c784cf0255ed3cb0c88
